@@ -27,7 +27,9 @@
 
 Определение подсистемы и надсистемы.
 
+Диаграмма IDF0.
 
+![](https://github.com/Parofeen/Parfenova_ST/blob/main/%D0%BB%D0%B0%D0%B12/01_A0.png)
 
 ## Лабораторная 3
 
