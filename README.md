@@ -2,6 +2,10 @@
 # Отчет о лабораторных работах
 # студентка группы [ИДБ-18-08](https://github.com/Parofeen/Parfenova_ST/wiki) Парфенова А.С.
 
+<details> 
+  <summary>Q1: What is the best Language in the World? </summary>
+   <p>A1: Лабораторные работы 1-3 </p>
+
 ## Лабораторная 1
 
 Создание диаграммы прецедентов и диаграммы IDF0 для индивидуального проекта.
@@ -90,6 +94,8 @@ ER-диаграмма.
 
 
 [Ссылка на модель, выполненную в программе RAMUS.](https://github.com/Parofeen/Parfenova_ST/blob/main/%D0%BB%D0%B0%D0%B13/%D0%A0%D0%B0%D0%B1%D0%BE%D1%82%D0%B0%20%D1%80%D0%B5%D1%81%D1%82%D0%BE%D1%80%D0%B0%D0%BD%D0%B0.rsf)
+
+</details>
 
 ## Лабораторная 4
 
