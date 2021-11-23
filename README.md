@@ -3,7 +3,7 @@
 # студентка группы [ИДБ-18-08](https://github.com/Parofeen/Parfenova_ST/wiki) Парфенова А.С.
 
 <details> 
-  <summary><b> Лабораторные работы 1-3 </summary>
+  <summary><b> Лабораторные работы 1-3 </b></summary>
       
 ## Лабораторная 1
 
