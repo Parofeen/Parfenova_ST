@@ -3,8 +3,7 @@
 # студентка группы [ИДБ-18-08](https://github.com/Parofeen/Parfenova_ST/wiki) Парфенова А.С.
 
 <details> 
-  <summary>Q1: What is the best Language in the World? </summary>
-   <p>A1: Лабораторные работы 1-3 </p>
+  <summary> ##Лабораторные работы 1-3 </summary>
 
 ## Лабораторная 1
 
