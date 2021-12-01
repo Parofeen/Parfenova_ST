@@ -100,10 +100,18 @@ ER-диаграмма.
   <summary><b> Лабораторные работы 4-6 </b></summary>
 
 ### Задачи
-issues
+  
+Открытые задачи
+
+![](https://github.com/Parofeen/Parfenova_ST/blob/main/%D1%80%D0%B8%D1%81%D1%83%D0%BD%D0%BA%D0%B8/3.jpg)
+  
+Закрытые задачи
+
+![](https://github.com/Parofeen/Parfenova_ST/blob/main/%D1%80%D0%B8%D1%81%D1%83%D0%BD%D0%BA%D0%B8/1.jpg)
 
 ### Канбан-доска
-kanban
+
+![](https://github.com/Parofeen/Parfenova_ST/blob/main/%D1%80%D0%B8%D1%81%D1%83%D0%BD%D0%BA%D0%B8/2.jpg)
 
 ### Наименование: Разработка программного модуля, преобразующего растровое изображение в ASCII-рисунок.
 |Роль|Задача|Зависимость|Плановая оценка трудозатрат|Фактическая оценка трудозатрат|Фамилия|
