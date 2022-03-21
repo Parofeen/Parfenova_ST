@@ -35,11 +35,11 @@
 
 * A-0 (контекстная диаграмма)
 
-![A-0](myrep\a-0.jpg)
+![A-0](https://github.com/Parofeen/Parfenova_ST/blob/main/%D1%80%D0%B8%D1%81%D1%83%D0%BD%D0%BA%D0%B8/%D0%900.png)
 
 * A0 (диаграмма верхнего уровня)
 
-![A0](myrep\a0.jpg)
+![A0](https://github.com/Parofeen/Parfenova_ST/blob/main/%D1%80%D0%B8%D1%81%D1%83%D0%BD%D0%BA%D0%B8/%D0%901.png)
 
 * A3 (декомпозиция процесса/процессов внутренней среды)
 
