@@ -1,4 +1,5 @@
 @startuml
+
 skinparam monochrome true
 hide circle
 hide methods
@@ -22,4 +23,5 @@ usecase case4 as "Расчет значения"
  (case3) .> (case4) : include
  case2 -- Фаервол
 }
+
 @enduml
