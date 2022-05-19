@@ -1,0 +1,25 @@
+@startuml
+skinparam monochrome true
+hide circle
+hide methods
+left to right direction
+skinparam packageStyle rectangle
+
+actor "Устройство"
+actor "Фаервол" 
+actor "Программный_модуль" 
+
+Фаервол --> Программный_модуль
+
+rectangle Модуль_блокирования {
+usecase case1 as "Получение доступа к серверу"
+usecase case2 as "Принятие решения о блокировке"
+usecase case3 as "Проверка значений"
+usecase case4 as "Расчет значения"
+ Устройство -- case1
+ (case1) .> (case2) : include
+ (case2) .> (case3) : include
+ (case3) .> (case4) : include
+ case2 -- Фаервол
+}
+@enduml

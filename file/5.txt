@@ -1,0 +1,37 @@
+@startuml
+skinparam class {
+	BackgroundColor White
+	ArrowColor Black
+	BorderColor Black
+}
+hide circle
+hide methods
+
+class apachelogs {
+   id
+   agent
+   bytes_sent
+   child_pid
+   cookie
+   machine_id
+   request_file
+   remote_host
+   remote_logname
+   remote_user
+   request_duration
+   request_line
+   request_method
+   request_protocol
+   request_time
+   request_uri
+   t_args
+   server_port
+   ssl_cipher
+   ssl_keysize
+   ssl_maxkeysize
+   status
+   time_stamp
+   virtual_host
+}
+
+@enduml

@@ -1,0 +1,17 @@
+@startuml
+skinparam monochrome true
+
+actor Устройство as user
+participant "Модуль расчета" as cli
+database "База данных" as base
+
+user -> cli: Запрос на расчет
+activate cli
+cli -> base: Запрос необходимых данных в БД
+activate base
+base --> cli: Получение соответствующих данных
+deactivate base
+cli --> user: Получение результата расчета
+deactivate cli
+
+@enduml

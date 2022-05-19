@@ -1,0 +1,16 @@
+@startuml
+skinparam BackgroundColor transparent
+skinparam componentStyle uml2
+
+component "Server" {
+   component "Platform Ubuntu" {
+        [Сервер Apache]
+        [База данных MySql]
+        [Классификатор запросов]
+        [Cкрипты]
+      [Сервер Apache] - [База данных MySql]
+      [База данных MySql] - [Классификатор запросов]
+      [Классификатор запросов] - [Cкрипты]
+}
+}
+@enduml
